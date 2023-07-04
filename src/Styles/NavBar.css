@@ -1,0 +1,21 @@
+.navbar {
+  width: 270px;
+  position: fixed;
+  left: 0px;
+  height: 900px;
+  background-color: #111;
+}
+i {
+  font-size: 25px;
+  color: #fff;
+  padding: 50px 50px;
+}
+a {
+  color: #fff;
+  text-decoration: none;
+}
+.nav-items {
+  padding-top: 20px;
+  display: flex;
+  flex-direction: column;
+}
